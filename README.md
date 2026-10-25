@@ -75,7 +75,8 @@ a.   KVL:
 
 
 b.  KCL:
-![Uploading WhatsApp Image 2026-10-23 at 7.28.11 PM (1).jpeg…]()
+<img width="1323" height="975" alt="WhatsApp Image 2026-10-23 at 7 28 11 PM (1)" src="https://github.com/user-attachments/assets/8aa017b8-b2ad-437c-be9c-f93d470720dc" />
+
 
 
 
